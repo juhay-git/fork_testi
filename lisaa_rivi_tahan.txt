@@ -4,3 +4,5 @@
 
 #testi manuaalisesti PowerShell
 #haaran muokkaus
+
+# kokeillaas uudestaan tehdä 24.9.2025
