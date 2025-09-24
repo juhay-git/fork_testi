@@ -3,3 +3,5 @@
 #Lisäsin rivin tähän
 #blaah
 #uudempi rivi
+
+#git komentokehoite haara_nro_x
